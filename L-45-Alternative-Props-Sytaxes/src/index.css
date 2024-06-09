@@ -38,6 +38,7 @@ header h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
+  background-clip: text;
 }
 
 header p {
