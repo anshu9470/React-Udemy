@@ -8,13 +8,13 @@ import Examples from './components/Examples.jsx';
 function App() {
   
   return (
-    <Fragment>
+    <>
       <Header />
       <main>
         <CoreConcepts />
         <Examples />
       </main>
-    </Fragment>
+    </>
   );
 }
 
