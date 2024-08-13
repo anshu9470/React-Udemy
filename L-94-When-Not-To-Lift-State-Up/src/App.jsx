@@ -1,3 +1,4 @@
+// This is not the working code. It is an intermediary code.
 import { useState } from 'react';
 import Player from './components/Player.jsx';
 import GameBoard from './components/GameBoard.jsx';
